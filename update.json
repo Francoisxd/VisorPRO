@@ -1,8 +1,8 @@
 {
-  "version_actual": "",
-  "update_url": "",
+  "version_actual": "1.0.0",
+  "update_url": "https://github.com/Francoisxd/VisorPRO/releases/download/v1.0.1/VisorCamaras_PRO.zip",
   "apagar_todos": false,
   "permitidos": [
-    "/JT5P3G3/CNCMC0017K0940/"
+    "/JT5P3G3/CNCMC0017K094O/"
   ]
 }
